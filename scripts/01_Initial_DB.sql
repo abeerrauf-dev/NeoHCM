@@ -12,5 +12,3 @@ GO
 -- Switch to NeoHCM
 USE NeoHCM;
 GO
-
--- Future tables (Employee, Department, Payroll, etc.) will be added here
